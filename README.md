@@ -1,5 +1,4 @@
-# project3
-> Ⓔ︎Ⓛ︎Ⓑ︎Ⓔ︎Ⓚ︎:
+
 <!DOCTYPE html>
 <html lang="uz">
 <head>
